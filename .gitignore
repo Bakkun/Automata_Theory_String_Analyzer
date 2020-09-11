@@ -1,0 +1,4 @@
+# Project exclude paths
+/target/
+.idea
+Automata_Theory_String_Analyzer.iml
